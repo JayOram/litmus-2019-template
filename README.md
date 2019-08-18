@@ -1,0 +1,10 @@
+# litmus-2019-template
+<br>
+Thanks for watching my Litmus talk - please find the full template I used throughout the talk below!
+<br>
+<br>
+<h2>Links</h2>
+<a href="">Slides</a>
+<br>
+<a href="https://testing.emailcms.net/tools/jay_at_litmus/editor">Taxi Slider Tool</a>
+<br>
