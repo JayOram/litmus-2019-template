@@ -1,6 +1,6 @@
 # litmus-2019-template
 <br>
-Thanks for watching my Litmus talk - please find the full template I used throughout the talk below!
+Thanks for watching my Litmus talk - please find the full template I used throughout the talk <a href="https://github.com/JayOram/litmus-2019-template/blob/master/template-example.html">here</a>!
 <br>
 <br>
 <h2>Links</h2>
